@@ -70,7 +70,3 @@ local.properties
 .scala_dependencies
 .worksheet
 
-HackerRank/Algorithms/warmup/.classpath
-HackerRank/Algorithms/warmup/.project
-HackerRank/Algorithms/warmup/target/*
-HackerRank/RemoteSystemsTempFiles/.project
